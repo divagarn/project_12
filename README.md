@@ -1,14 +1,16 @@
 
-# divagar_s_application1
+# divagar_s_application1 dc
 
-Built with AndroidX Support
+
+
+Built with AndroidX Support.
 
 Requires Android Studio Arctic Fox | 2020.3.1 or higher.
 
 Current Kotlin Version 1.7.20
 
 
-### SDK Versions
+### SDK Versions ###
 
 compileSdkVersion 33
 
@@ -81,3 +83,6 @@ We were unable to find Drawables, Please add manually to ```app/src/main/res/dra
 | --- | :---: |
 | activity_interests_people_tab_container | 3 |
 
+
+
+Thanks 
